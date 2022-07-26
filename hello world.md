@@ -1,12 +1,9 @@
 # Первый файл по контролю версий
-Hello world!
+## Выделение текстом
+**Hello world!**
 *I love you!*
+## Списки
 1. Start our meetings
 2. Hi everyone
-
-dance!
-**open**
-Let's dance!
 * one trip
 * two trip
-
