@@ -4,4 +4,5 @@ Start our meetings
 Hi everyone
 dance!
 open
+Let's dance!
 
