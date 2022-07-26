@@ -1,8 +1,10 @@
 Hello world!
-I love you!
+*I love you!*
 Start our meetings
 Hi everyone
 dance!
-open
+**open**
 Let's dance!
+* one trip
+* two trip
 
